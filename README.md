@@ -24,4 +24,5 @@
 ### Databases
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-And, that's all! Enjoy the repositories in this profile.
+## Contact
+You can contact me at jaimedavid250701 [at] outlook.com
