@@ -1,11 +1,27 @@
-### Hello World! 👋
+# Hello World! 👋 I'm Jaime Daza
+> Junior Software Developer at [Hypersoft.co](http://www.hypersoft.co)
+<div>
+  <p>
+    I'm a Sotware Developer skilled in Javascript, AngularJS, React, Java, PHP, Laravel, NodeJS & MySQL. I'm able to conduct and perform projects from the scratch, using best practices and standards in the industry, and constantly learning new technologies as the industry changes. I can also perform well under well defined teams, with an aim to contribute to the team's performance and productivity.
+  </p>
+</div>
 
-Welcome to my profile, where you can find some code done during my studies, as well as open-source code from my personal projects.
+## My stack
 
+### Programming languages
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- 🔭 I’m currently studying Systems Engineering (Computer Science) at Universidad de la Costa, Barranquilla, Colombia. I’ve skills in HTML, CSS, JS, PHP, Java & SQL.
-- 🌱 I'm currently learning ReactJS, and eager to learn Angular, Vue, Node.JS & MongoDB
-- 👯 I’m looking to collaborate on web development projects, with languages & framewoks I already know
-- 📫 How to reach me: jaimedavid250701 [at] outlook.com
+### Libraries
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Frameworks
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 And, that's all! Enjoy the repositories in this profile.
