@@ -8,6 +8,10 @@
 
 ## My stack
 
+### Markup and styles
+![](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logo-color=white)
+![](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logo-color=white)
+
 ### Programming languages
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
